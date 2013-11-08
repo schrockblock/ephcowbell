@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eph Cowbell</string>
+    <string name="swipe_msg">&lt;&lt; Swipe for more cowbell sounds &gt;&gt;</string>
+    <string name="goofy">Goofy Cowbell</string>
+    <string name="normal">Normal Cowbell</string>
+    <string name="tinny">Tinny Cowbell</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
